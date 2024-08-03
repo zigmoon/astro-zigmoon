@@ -1,6 +1,6 @@
 ---
 author: Sat Naing
-title: Adding test new posts in AstroPaper theme
+title: zig Adding test new posts in AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
